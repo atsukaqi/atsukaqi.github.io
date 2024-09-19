@@ -2,4 +2,4 @@
 
 ## Self- Interduction
 
-Hi! I am Atsuka!
+Hi! I am a Journalism student in [Lehigh University](https://www2.lehigh.edu/).

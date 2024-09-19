@@ -1,7 +1,7 @@
 # atsukaqi.github.io
 
 ## Self- Interduction
-[ ]Welcome！:tada:
+- [ ] WELCOME
 
 Hi! I am Atsuka. I am studying journalism major at [Lehigh University](https://www2.lehigh.edu/).
 

@@ -2,4 +2,4 @@
 
 ## Self- Interduction
 
-Hi! I am a Journalism student in [Lehigh University](https://www2.lehigh.edu/).
+Hi! I am a Journalism student at [Lehigh University](https://www2.lehigh.edu/).

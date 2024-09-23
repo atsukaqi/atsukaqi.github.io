@@ -1,12 +1,15 @@
 # atsukaqi.github.io
 
 ## Self- Interduction
-🎉 WELCOME 🎉
-
-Hi! I am Atsuka. I am studying journalism major at [Lehigh University](https://www2.lehigh.edu/).
-
+### Hi, I am Atsuka!
 ![lehigh](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/www.usnews.jpg?raw=true)
-![bw](https://auxiliaryservices.lehigh.edu/sites/auxiliaryservices.lehigh.edu/files/20190920_133101_0.jpg)
 
+📖 Study Journalism major at [Lehigh University](https://www2.lehigh.edu/).
 
-### About Me
+🙋 Get to know me better [LinkedIn] (www.linkedin.com/in/atsukaqi44).
+
+📷 About my [photography works] (https://atsukaqi.wixsite.com/my-site-1).
+
+🤔 Current leaning about Github...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atsukaqi)](https://github.com/anuraghazra/github-readme-stats)

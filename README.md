@@ -6,9 +6,9 @@
 
 📖 Study Journalism major at [Lehigh University](https://www2.lehigh.edu/).
 
-🙋 Get to know me better [LinkedIn] (www.linkedin.com/in/atsukaqi44).
+🙋 Get to know me better [LinkedIn](www.linkedin.com/in/atsukaqi44).
 
-📷 About my [photography works] (https://atsukaqi.wixsite.com/my-site-1).
+📷 About my [photography works](https://atsukaqi.wixsite.com/my-site-1).
 
 🤔 Current leaning about Github...
 

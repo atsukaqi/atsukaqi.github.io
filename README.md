@@ -12,6 +12,10 @@
 
 🤔 Current leaning about Github...
 
+## Here is the infographic about Undergraduate Enrollment
+### Form [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
+![infographic](
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atsukkkaqi4444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atsukaqi44) 

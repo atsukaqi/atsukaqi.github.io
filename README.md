@@ -2,7 +2,6 @@
 
 ## Hi, I am Atsuka!
 ### Self- Interduction
-![lehigh](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/www.usnews.jpg?raw=true)
 
 📖 Study Journalism major at [Lehigh University](https://www2.lehigh.edu/).
 
@@ -12,10 +11,12 @@
 
 🤔 Current leaning about Github...
 
+![lehigh](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/www.usnews.jpg?raw=true)
 
 
 
-## Here is the infographic about Undergraduate Enrollment
+
+## The infographic about Undergraduate Enrollment
 ### Source form [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
 
 ![infographic](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/inforgraphic.png?raw=true)

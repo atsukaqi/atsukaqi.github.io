@@ -12,9 +12,17 @@
 
 🤔 Current leaning about Github...
 
+
+
+
 ## Here is the infographic about Undergraduate Enrollment
-### Form [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
-![infographic](
+### DATA from [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
+
+![infographic](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/inforgraphic.png?raw=true)
+
+Learn more at [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
+
+
 
 
 ## 🌐 Socials:

@@ -17,13 +17,16 @@
 
 
 ## The infographic about Undergraduate Enrollment
-### Source form [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
+### Source from [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
 
 ![infographic](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/inforgraphic.png?raw=true)
 
 Visit [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) to learn more about Undergraduate Enrollment.
 
 
+## The infographic about Lehigh University First Destination Report
+### Source from [Lehigh Univerisity Career Center](https://careercenter.lehigh.edu/).
+!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atsukkkaqi4444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atsukaqi44) 

@@ -21,8 +21,7 @@
 
 ![infographic](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/inforgraphic.png?raw=true)
 
-Learn more at [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
-
+Visit [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) to learn more about Undergraduate Enrollment.
 
 
 

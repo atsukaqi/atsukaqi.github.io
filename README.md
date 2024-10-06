@@ -1,7 +1,7 @@
 # atsukaqi.github.io
 
 ## Hi, I am Atsuka!
-### Self- Interduction
+### Self- Introduction
 
 📖 Study Journalism major at [Lehigh University](https://www2.lehigh.edu/).
 

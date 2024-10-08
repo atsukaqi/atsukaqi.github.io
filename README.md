@@ -24,8 +24,10 @@ Visit [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh
 
 ## The infographic about Lehigh University First Destination Report
 ### Source from [Lehigh Univerisity Career Center](https://careercenter.lehigh.edu/).
+This infographic shows the employment and continuing education of Lehigh University's Class of 2023, courtesy of the [Lehigh Univerisity Career Center](https://careercenter.lehigh.edu/). The data shows that 95.4 percent of graduates were successfully employed, continuing their education, or involved in volunteer and military service within six months of graduation. Additionally, a total of 509 employers hired Lehigh graduates, further demonstrating the school's strong support in helping students with their careers. Visit [Lehigh Univerisity First Destination Report](https://www1.lehigh.edu/admissions/success-after-graduation)
+
 ![inforgraphic](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/%E6%88%AA%E5%B1%8F2024-09-29%2016.40.30.png?raw=true)
-Visit [Lehigh Univerisity First Destination Report](https://www1.lehigh.edu/admissions/success-after-graduation)
+
 
 
 ## TimelineJS

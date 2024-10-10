@@ -11,6 +11,9 @@
 
 🤔 Current leaning about Github...
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atsukkkaqi4444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atsukaqi44) 
+
 ![lehigh](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/www.usnews.jpg?raw=true)
 
 
@@ -57,9 +60,6 @@ Visit [Worldometer](https://www.worldometers.info/world-population/population-by
 
 
 --------------------------------------
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atsukkkaqi4444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atsukaqi44) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atsukaqi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 

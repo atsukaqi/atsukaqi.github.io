@@ -14,6 +14,8 @@
 ![lehigh](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/www.usnews.jpg?raw=true)
 
 
+
+--------------------------------------
 ## The infographic about Undergraduate Enrollment
 ### Source from [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
 
@@ -30,6 +32,7 @@ This infographic shows the employment and continuing education of Lehigh Univers
 
 
 
+--------------------------------------
 ## TimelineJS
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vMc6KtQcyalfynanjxOnnrLSXYCcViQ_uw60BD-brkQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
@@ -39,6 +42,18 @@ This infographic shows the employment and continuing education of Lehigh Univers
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1SXjXBffD18frKWA69HgQotXyNU1AyPohtekgGXS3kzE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
+
+--------------------------------------
+## Bar Chart
+### 
+
+## Line Chart
+### Three Countries' Population Growth Rate Over the Past Decade
+![Linechart](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/Three_Countries'_Population_Growth_Rate_Over_the_Past_Decade_India_China_United_States_chartbuilder.png?raw=true)
+Visit [Worldometer](https://www.worldometers.info/world-population/population-by-country/) to learn more about World Population.
+
+
+--------------------------------------
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atsukkkaqi4444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atsukaqi44) 
 

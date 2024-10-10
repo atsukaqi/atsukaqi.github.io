@@ -45,7 +45,10 @@ This infographic shows the employment and continuing education of Lehigh Univers
 
 --------------------------------------
 ## Bar Chart
-### 
+### 2024 Lehigh University Undergraduate Student Proflie
+![Barchart](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/2024_Lehigh_University_Undergraduate_Student_Profile_Percentage_chartbuilder.png?raw=true)
+Visit [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) to learn more about Undergraduate Enrollment.
+
 
 ## Line Chart
 ### Three Countries' Population Growth Rate Over the Past Decade

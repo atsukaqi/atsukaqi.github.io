@@ -66,8 +66,14 @@ Visit [Worldometer-World Population](https://www.worldometers.info/world-populat
 
 --------------------------------------
 ## Geolocation Data
-### Source from [Wired Magezine](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
+### Source from [Wired Magezine](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
 <iframe src="https://www.google.com/maps/d/embed?mid=15NFIVH4Jmy0PzRppXI7Hwfd9ehQyUSg&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+## Geolocation Data
+### The World's 50 Best Restaurants
+This map shows the top restaurants on [The World's 50 Best Restaurants](https://www.theworlds50best.com/list/1-50) list, making it easy for users to quickly locate culinary destinations around the world. From Michelin-starred restaurants to unique and innovative eateries, each marker represents a unique culinary experience. With this map, you can easily plan a culinary journey around the world and explore the cuisine and culture presented by these highly regarded restaurants. If you are a food lover or travel enthusiast, this map will be an indispensable guide for you.
+<iframe src="https://www.google.com/maps/d/embed?mid=1cDD1ct1OpkOd22OM-ZwajfL6rNyD-_Q&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 --------------------------------------

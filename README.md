@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # atsukaqi.github.io
 
 ## Hi, I am Atsuka!

@@ -68,8 +68,8 @@ Visit [Worldometer-World Population](https://www.worldometers.info/world-populat
 
 --------------------------------------
 --------------------------------------
-## Geolocation Data (in-class exercise)
-### 🚴 Most Bike Friendly Cities 2019
+## Geolocation Data
+### 🚴 Most Bike Friendly Cities 2019 (in-class exercise)
 ### Source from [Wired Magezine](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15NFIVH4Jmy0PzRppXI7Hwfd9ehQyUSg&ehbc=2E312F" width="640" height="480"></iframe>

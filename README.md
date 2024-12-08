@@ -15,7 +15,8 @@
 
 
 
-######################################
+--------------------------------------
+--------------------------------------
 ## 📑 The infographic about Undergraduate Enrollment (in-class exercise)
 ### Source from [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
 

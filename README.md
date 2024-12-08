@@ -60,6 +60,7 @@ Visit [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh
 ### 📈 Three Countries' Population Growth Rate Over the Past Decade
 ### Source from [Worldmeter](https://www.worldometers.info/).
 This Line Chart shows the changing trends in population growth rates in India, China and the United States over the past ten years. From the chart, we can see that India's population growth rate has remained at a high level, and although it has gradually slowed down, it is still ahead of China and the United States. In contrast, China's population growth rate has been declining year by year, and in 2021 it has become negative. Meanwhile, the population growth rate in the United States has been relatively stable, but it also declined in 2021 and then rebounded slightly.
+
 ![Linechart](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/Three_Countries'_Population_Growth_Rate_Over_the_Past_Decade_India_China_United_States_chartbuilder.png?raw=true)
 Visit [Worldometer-World Population](https://www.worldometers.info/world-population/population-by-country/) to learn more about World Population.
 

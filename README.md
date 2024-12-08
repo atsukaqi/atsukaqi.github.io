@@ -33,9 +33,7 @@ This infographic shows the employment and continuing education of Lehigh Univers
 
 
 --------------------------------------
---------------------------------------
---------------------------------------
-## TimelineJS
+## TimelineJS (in-class exercise)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vMc6KtQcyalfynanjxOnnrLSXYCcViQ_uw60BD-brkQ&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 --------------------------------------
@@ -48,9 +46,7 @@ In modern times, especially after the founding of the People's Republic of China
 
 
 --------------------------------------
---------------------------------------
---------------------------------------
-## Bar Chart
+## Bar Chart (in-class exercise)
 ### 2024 Lehigh University Undergraduate Student Proflie
 ### Source from [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
 ![Barchart](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/2024_Lehigh_University_Undergraduate_Student_Profile_Percentage_chartbuilder.png?raw=true)
@@ -68,9 +64,7 @@ Visit [Worldometer-World Population](https://www.worldometers.info/world-populat
 
 
 --------------------------------------
---------------------------------------
---------------------------------------
-## Geolocation Data
+## Geolocation Data (in-class exercise)
 ### Source from [Wired Magezine](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15NFIVH4Jmy0PzRppXI7Hwfd9ehQyUSg&ehbc=2E312F" width="640" height="480"></iframe>
@@ -83,11 +77,10 @@ This map shows the top restaurants on [The World's 50 Best Restaurants](https://
 <iframe src="https://www.google.com/maps/d/embed?mid=1cDD1ct1OpkOd22OM-ZwajfL6rNyD-_Q&ehbc=2E312F" width="640" height="480"></iframe>
 
 
---------------------------------------
---------------------------------------
+
 --------------------------------------
 ## Tableau
-### Party Location and Gender
+### Party Location and Gender (in-class exercise)
 
 <div class='tableauPlaceholder' id='viz1730390340871' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocationandGender_17303901367270&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PartyLocationandGender_17303901367270&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image'value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;PartyLocationandGender_17303901367270&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1730390340871');var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
@@ -102,15 +95,12 @@ In fraternity house parties, both males and females reported unsafe experiences,
 
 
 --------------------------------------
---------------------------------------
---------------------------------------
 ## Tableau
-### Institusion of Universities
+### Institusion of Universities (in-class exercise)
 
 <div class='tableauPlaceholder' id='viz1730998615518' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MX&#47;MXHDRP8JC&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;MXHDRP8JC' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MX&#47;MXHDRP8JC&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1730998615518'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
 --------------------------------------
-## Tableau
 ### World Happiness Report 2024: Comparative analysis of GDP and social support in the Top 5 and Bottom 5 countries
 In modern society, where people are often stressed by life and work, the motivation for this project stems from my curiosity about the factors that influence people's happiness(ladder score). I chose GDP and social support as the focus of my analysis because of their notable role in improving a country's happiness level.
 
@@ -122,8 +112,6 @@ The analysis shows that the top 5 countries typically have high GDP and strong s
 
 
 
---------------------------------------
---------------------------------------
 --------------------------------------
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=atsukaqi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

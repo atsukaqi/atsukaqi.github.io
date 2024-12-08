@@ -18,7 +18,7 @@
 --------------------------------------
 --------------------------------------
 --------------------------------------
-## The infographic about Undergraduate Enrollment
+## 📚The infographic about Undergraduate Enrollment
 ### Source from [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
 
 ![infographic](https://github.com/atsukaqi/atsukaqi.github.io/blob/main/inforgraphic.png?raw=true)

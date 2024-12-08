@@ -15,7 +15,7 @@
 
 
 
---------------------------------------
+######################################
 ## 📑 The infographic about Undergraduate Enrollment (in-class exercise)
 ### Source from [Office of Institutional Data (OID) ](https://data.lehigh.edu/).
 
@@ -24,6 +24,7 @@
 Visit [Lehigh Univeristy Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) to learn more about Undergraduate Enrollment.
 
 
+--------------------------------------
 ## 💸 The infographic about Lehigh University First Destination Report
 ### Source from [Lehigh Univerisity Career Center](https://careercenter.lehigh.edu/).
 This infographic shows the employment and continuing education of Lehigh University's Class of 2023, courtesy of the [Lehigh Univerisity Career Center](https://careercenter.lehigh.edu/). The data shows that 95.4 percent of graduates were successfully employed, continuing their education, or involved in volunteer and military service within six months of graduation. Additionally, a total of 509 employers hired Lehigh graduates, further demonstrating the school's strong support in helping students with their careers. Visit [Lehigh Univerisity First Destination Report](https://www1.lehigh.edu/admissions/success-after-graduation)
